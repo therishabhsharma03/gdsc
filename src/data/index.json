@@ -1,0 +1,58 @@
+{
+    "skills":[
+        {
+            "id":1,
+            "src":"./imgs/1.png",
+            "title":"Machine Based Training",
+            "decription":""
+        },
+        {
+            "id":2,
+            "src":"./imgs/2.png",
+            "title":"Mentorship By International Players",
+            "decription":""
+        },
+        {
+            "id":3,
+            "src":"./imgs/3.png",
+            "title":"Player Ranking ",
+            "decription":""
+        },
+        {
+            "id":3,
+            "src":"./imgs/4.png",
+            "title":"Detailed Performance Analysis",
+            "decription":""
+        }
+    ],
+
+
+
+    "portfolio":[
+        {
+            "id":1,
+            "src":"./imgs/aw.jpg",
+            "title":"Durand Cup",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"Know more"
+
+           
+        },
+        {
+            "id":2,
+            "src":"./imgs/aww.jpg",
+            "title":"Uber Cup Thomas Cup",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"Know more"
+        },
+        {
+            "id":3,
+            "src":"./imgs/awww.jpg",
+            "title":"Corbillon Cup ",
+            "decription":"Lorem ispum dolar sit amer , Syspendise consectrtu elit",
+            "link":"Know more"
+  
+        }
+
+    ]
+}
